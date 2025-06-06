@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanningPoker", "PlanningPoker.csproj", "{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "..\DataAccess\DatabaseAccess.csproj", "{15BD96E7-DB5E-4EA6-9184-B935E280613D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BD96E7-DB5E-4EA6-9184-B935E280613D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BD96E7-DB5E-4EA6-9184-B935E280613D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BD96E7-DB5E-4EA6-9184-B935E280613D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BD96E7-DB5E-4EA6-9184-B935E280613D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
