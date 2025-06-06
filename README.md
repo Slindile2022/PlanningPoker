@@ -1,88 +1,108 @@
-PlanningPoker
-A modern Agile estimation tool for development teams.
+# 🃏 Planning Poker App
 
-Key Features
-Create Estimation Sessions: Moderators can create named sessions and invite team members
-Real-time Collaboration: All actions (joining, voting, revealing) happen instantly for all participants
-Fibonacci Card Deck: Standard estimation using Fibonacci sequence (1, 2, 3, 5, 8, 13, 21, etc.)
-Voting & Results: Cast votes privately, reveal them simultaneously, and view statistical aggregations
-Story Management: Add multiple stories to estimate in a single session
-Secure & Private: Moderator controls via secure tokens
-How It Works
-Session Creation & Joining
-Moderator Creates Session:
+## 🚀 About The Project
+A **modern Agile estimation tool** built to enhance collaboration and estimation accuracy for software development teams.
 
-Moderator opens the app and creates a new Planning Poker session
-System generates a unique session ID and moderator token
-Session appears in the active sessions list
-Participants Join:
+### 🎮 Key Highlights
+- ⚡ **Real-time collaboration** with instant updates using SignalR
+- 📱 Android mobile app powered by a robust ASP.NET Core backend
+- 🔄 **Seamless synchronization** of estimations across all team members
+- 📊 **Statistical analysis**: view average and median estimates
+- 🔒 **Secure moderation** using token-based access controls
 
-Team members open the app and see active sessions
-They select the relevant session and enter their name
-All participants see updates as team members join
-Estimation Process
-Story Setup:
+---
 
-Moderator adds user stories with title and description
-Stories start in "Not Started" status
-Voting Phase:
+## ✨ Features
 
-Moderator selects a story and starts voting
-Participants select cards (1, 2, 3, 5, 8, 13, etc.) representing their estimate
-Everyone sees who has voted, but not the values (until reveal)
-Results & Discussion:
+### 🛠️ Create Estimation Sessions
+- Create uniquely named sessions as a moderator
+- Automatically generate secure moderator tokens
+- Invite team members to join sessions easily
 
-Moderator reveals all votes simultaneously
-App displays all votes, average, and median
-Team discusses outliers and reasoning
-Finalization:
+### 🔁 Real-time Collaboration
+- All actions sync instantly for every participant
+- Track who joined and who voted in real-time
+- No need for page refreshes or manual syncing
 
-Team reaches consensus or revotes if needed
-Moderator marks story as completed and moves to next story
-Real-time Experience
-The app provides a truly collaborative experience:
+### 🧮 Fibonacci Card Deck
+- Estimation values follow the standard Fibonacci sequence  
+  (1, 2, 3, 5, 8, 13, 21, ...)
 
-Instant Updates: When anyone joins, votes, or changes status, all participants see it immediately
-Synchronized Reveals: The excitement of simultaneous card reveals is preserved
-Live Participation Tracking: See who's in the session and who has voted
-Technical Architecture
-The application consists of:
+### 🕵️‍♂️ Private Voting & Synchronized Reveals
+- Votes are private until the moderator reveals them
+- Reveal all votes at once
+- Automatically display average and median values for discussion
 
-Mobile App (Android):
+### 📚 Story Management
+- Add multiple user stories to estimate in one session
+- Track progress of stories from pending to completed
 
-Intuitive UI for all Planning Poker activities
-Real-time updates via SignalR client
-REST API integration via Retrofit
-Backend API (ASP.NET Core):
+---
 
-RESTful endpoints for all operations
-SignalR hub for real-time communication
-Clear separation of concerns:
-Controllers handle API requests
-Repository pattern for data access
-DTOs for data transfer
-Database:
+## 🔄 How It Works
 
-SQL Server for persistent storage
-Entity Framework Core for data access
-Structured data model with sessions, participants, stories, and votes
-Data Flow
-Session Management:
+### 1️⃣ Session Creation & Joining
+- Moderator creates a new session
+- System generates a unique session ID + moderator token
+- Participants join by selecting the session and entering their name
+- All users see participants joining in real-time
 
-Create, join, and manage Planning Poker sessions
-Real-time participant tracking
-Story Workflow:
+### 2️⃣ Story Setup & Estimation
+- Moderator adds user stories (title + description)
+- Moderator starts the voting phase
+- Participants select cards to vote
+- See who voted — values remain hidden until reveal
 
-Not Started → Voting → Revealed → Completed
-Seamless progression through estimation phases
-Voting Mechanics:
+### 3️⃣ Results & Discussion
+- Moderator reveals all votes
+- App displays each vote + calculated average and median
+- Team discusses differences, then proceeds to next story
 
-Private voting during the Voting phase
-Synchronized reveal when moderator is ready
-Statistical analysis of voting results
-Core Components
-Sessions: Container for an estimation meeting
-Participants: Team members joining a session
-Stories: Items being estimated
-Votes: Estimations cast by participants
-Real-time Hub: Enables instant communication
+---
+
+## 🏗️ Technical Architecture
+
+### 📱 Mobile App (Android)
+- Built using **MVVM architecture**
+- Real-time communication via **SignalR client**
+- REST API integration with **Retrofit**
+- Clean, intuitive UI for session management and voting
+
+### 🖥️ Backend API (ASP.NET Core)
+- RESTful API endpoints for session, story, and vote management
+- **SignalR Hub** for live updates
+- Follows the **Repository Pattern**
+- DTOs used for clean and efficient data transfer
+
+### 💾 Database
+- Powered by **SQL Server**
+- Access through **Entity Framework Core**
+- Structured schema for:
+  - Sessions
+  - Participants
+  - Stories
+  - Votes
+
+---
+
+## 📫 Contact
+Want to collaborate or learn more?
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/slindile-maseko-402280277/)
+- 💌 [Email](mailto:slindilerowen@gmail.com)
+
+---
+
+## 💡 Future Improvements
+- Web frontend version for cross-platform use
+- Authentication with user accounts
+- Exportable reports and estimation history
+- Timeboxed voting with countdowns
+
+---
+
+## 🙌 Contributions Welcome!
+If you're interested in contributing, feel free to fork the repo and open a pull request. Let's build a better estimation experience together!
+
+---
+
