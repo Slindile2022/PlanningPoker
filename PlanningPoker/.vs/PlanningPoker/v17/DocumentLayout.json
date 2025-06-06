@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27729\\Documents\\PlanningPoker\\PlanningPoker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\repositories\\ivoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\repositories\\istoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\repositories\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\implementations\\voterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\implementations\\storyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\implementations\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\implementations\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\databasecontext\\planningpokerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\entity\\vote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\entity\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\entity\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\entity\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\enums\\storystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}|PlanningPoker.csproj|c:\\users\\27729\\documents\\planningpoker\\planningpoker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59227A4-0540-48A8-A83E-2ECFD97EE0E9}|PlanningPoker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\databaseaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BD96E7-DB5E-4EA6-9184-B935E280613D}|..\\DataAccess\\DatabaseAccess.csproj|c:\\users\\27729\\documents\\planningpoker\\dataaccess\\databasecontext\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\VoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Implementations\\VoteRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\VoteRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Implementations\\VoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:32:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\StoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Implementations\\StoryRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\StoryRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Implementations\\StoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:31:26.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\ParticipantRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Implementations\\ParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\ParticipantRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Implementations\\ParticipantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:30:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\ISessionRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\ISessionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:22:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Implementations\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Implementations\\SessionRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Implementations\\SessionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:20:44.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IVoteRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\IVoteRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IVoteRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\IVoteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:19:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IStoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\IStoryRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IStoryRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\IStoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:19:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IParticipantRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Repositories\\IParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Repositories\\IParticipantRepository.cs",
+              "RelativeToolTip": "..\\DataAccess\\Repositories\\IParticipantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:18:35.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlanningPokerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseContext\\PlanningPokerDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DatabaseContext\\PlanningPokerDbContext.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseContext\\PlanningPokerDbContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\DatabaseContext\\PlanningPokerDbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwC0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:17:14.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vote.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Vote.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entity\\Vote.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Vote.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entity\\Vote.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:16:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Story.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entity\\Story.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Story.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entity\\Story.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:16:01.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoryStatus.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Enums\\StoryStatus.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Enums\\StoryStatus.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Enums\\StoryStatus.cs",
+              "RelativeToolTip": "..\\DataAccess\\Enums\\StoryStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:15:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Participant.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entity\\Participant.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Participant.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entity\\Participant.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:15:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Session.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Entity\\Session.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\Entity\\Session.cs",
+              "RelativeToolTip": "..\\DataAccess\\Entity\\Session.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:14:31.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\PlanningPoker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\PlanningPoker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:12:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseAccess",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseAccess.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DatabaseAccess.csproj",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseAccess.csproj",
+              "RelativeToolTip": "..\\DataAccess\\DatabaseAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T18:03:25.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseContext\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\DatabaseContext\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\27729\\Documents\\PlanningPoker\\DataAccess\\DatabaseContext\\DatabaseContext.cs",
+              "RelativeToolTip": "..\\DataAccess\\DatabaseContext\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T18:02:07.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
