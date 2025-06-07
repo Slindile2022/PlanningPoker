@@ -36,7 +36,8 @@ namespace DatabaseAccess.DatabaseContext
 			modelBuilder.Entity<Vote>()
 				.HasOne(v => v.Story)
 				.WithMany(s => s.Votes)
-				.HasForeignKey(v => v.StoryId);
+				.HasForeignKey(v => v.StoryId)
+				.OnDelete(DeleteBehavior.NoAction);
 
 			modelBuilder.Entity<Vote>()
 				.HasOne(v => v.Participant)
