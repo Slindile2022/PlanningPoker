@@ -1,0 +1,15 @@
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\bin\Debug\net8.0\DatabaseAccess.deps.json
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\bin\Debug\net8.0\DatabaseAccess.runtimeconfig.json
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\bin\Debug\net8.0\DatabaseAccess.dll
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\bin\Debug\net8.0\DatabaseAccess.pdb
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.AssemblyInfo.cs
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.sourcelink.json
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.dll
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\refint\DatabaseAccess.dll
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.pdb
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\DatabaseAccess.genruntimeconfig.cache
+C:\Users\27729\Documents\PlanningPokerProject\DataAccess\obj\Debug\net8.0\ref\DatabaseAccess.dll

@@ -18,6 +18,7 @@ namespace DatabaseAccess.Implementations
 		{
 			return await _context.Sessions
 				.Where(s => s.IsActive)
+				.OrderByDescending(s => s.CreatedAt)
 				.ToListAsync();
 		}
 

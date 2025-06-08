@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DatabaseAccess.Entity
+﻿namespace DatabaseAccess.Entity
 {
 	public class Session
 	{
@@ -20,7 +14,7 @@ namespace DatabaseAccess.Entity
 		public Session()
 		{
 			Id = Guid.NewGuid();
-			CreatedAt = DateTime.UtcNow;
+			CreatedAt = DateTime.UtcNow.AddHours(2);
 			IsActive = true;
 			ModeratorToken = Guid.NewGuid().ToString();
 			Stories = new List<Story>();
